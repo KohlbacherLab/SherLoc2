@@ -1,0 +1,853 @@
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/156889.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3716 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/156889.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/1148.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3569 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/1148.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/255470.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1458 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/255470.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/64471.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2892 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/64471.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/243164.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1580 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/243164.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/197221.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2476 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/197221.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/203124.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 4451 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/203124.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/1140.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2662 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/1140.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/103690.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 6130 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/103690.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/292459.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3337 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/292459.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/387662.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 182 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/387662.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/374463.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+WARNING: [000.000] Sequence number 388 (lcl|388_/share/projects/LOC_PRED/WebServ), 1 illegal character was removed:
+1 J
+
+Formatted 595 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/374463.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/413404.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 976 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/413404.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/251221.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 4430 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/251221.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/240292.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 5661 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/240292.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/296591.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 5453 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/296591.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/292414.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3864 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/292414.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/290400.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 4283 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/290400.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/62928.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3989 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/62928.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/59920.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1892 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/59920.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/232721.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 4155 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/232721.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/266779.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 4543 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/266779.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/60480.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3924 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/60480.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/62977.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3325 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/62977.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/326442.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3486 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Bacteria/all/326442.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/178306.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2605 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/178306.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/272557.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1700 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/272557.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/186497.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2125 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/186497.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/272569.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 4240 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/272569.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/187420.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1873 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/187420.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/188937.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 4540 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/188937.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/273063.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2825 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/273063.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/190192.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1687 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/190192.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/273075.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1482 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/273075.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/384616.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1978 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/384616.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/192952.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3370 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/192952.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/273116.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1499 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/273116.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/224325.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2420 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/224325.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/228908.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 536 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/228908.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/323259.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3139 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/323259.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/243232.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1786 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/243232.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/330779.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2223 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/330779.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/410358.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1739 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/410358.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/259564.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2273 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/259564.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/339860.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1534 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/339860.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/263820.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1535 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/263820.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/267377.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1722 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/267377.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/348780.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2822 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/348780.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/269797.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 3624 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/269797.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/349307.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1696 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/349307.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/272844.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1898 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/272844.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/362976.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2646 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/362976.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/415426.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1602 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/415426.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/273057.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2977 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/273057.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/368408.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1876 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/368408.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/64091.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2622 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/64091.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/69014.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 2306 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/69014.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/70601.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1955 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Archaea/70601.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/10090.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 43306 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/10090.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/214684.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 6594 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/214684.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/35128.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 176 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/35128.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/36329.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 5267 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/36329.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/3702.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 30684 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/3702.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/39947.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 26887 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/39947.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/280699.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 207 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/280699.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/4932.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 5881 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/4932.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284590.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 5327 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284590.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284591.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 6521 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284591.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/5693.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 19607 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/5693.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284592.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 6318 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284592.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/6239.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 23141 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/6239.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284593.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 5192 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284593.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/7227.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 15563 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/7227.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284812.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 5035 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284812.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284813.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1996 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/284813.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/9606.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 33927 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/9606.faa
+
+========================[ Nov 2, 2009  9:37 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/294381.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 9772 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/294381.faa
+
+========================[ Nov 2, 2009  9:38 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/33169.faa"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 4724 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/data/NCBI//genomes/Eukaryota/33169.faa
+
+========================[ Nov 2, 2009  9:42 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq
+
+========================[ Nov 2, 2009  9:44 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq
+
+========================[ Nov 2, 2009  9:46 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq
+
+========================[ Nov 2, 2009  9:47 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq
+
+========================[ Nov 2, 2009  9:50 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq
+
+========================[ Nov 2, 2009  9:54 AM ]========================
+Version 2.2.14 [May-07-2006]
+Started database file "/share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/home/briese/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database /share/projects/LOC_PRED/WebServices/SherLoc2-online/tmp//3test.seq

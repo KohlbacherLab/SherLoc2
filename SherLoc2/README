@@ -1,0 +1,112 @@
+Introduction:
+=============
+
+SherLoc2 is a bioinformatics tool for predicting subcellular localizations of eukaryotic proteins.
+It's main purpose are large-scale annotations of protein sequence data. 
+The prediction system is implemented in python and trained using support vector machines. 
+SherLoc2 combines the output of several specialized subpredictors: 
+- SVMTarget: for recognizing N-terminal targeting sequences (SPs, MTPs, CTPs) 
+- SVMSA: for recognizing signal anchors
+- SVMaac: for analyzing the overall amino acid composition
+- MotifSearch: for recognizing relevant sequence motifs like NLSs, KDELs, SKLs, or DNA binding domains
+- GOLoc: for analyzing Gene Ontology terms derived from the protein sequence
+- PhyloLoc: for analyzing the phylogenetic profiles of the query sequences based on 78 genomes
+- EpiLoc: for analyzing text-based features derived from PubMed abstracts
+
+More information about the system architecture, training procedure and performance evaluation
+can be found in:
+
+Briesemeister,S., Blum,T., Brady,S., Lam,Y., Kohlbacher,O. and Shatkay,H.
+SherLoc2: a high-accuracy hybrid method for predicting protein subcellular localization
+
+
+SherLoc2 is available at 
+http://www-bs.informatik.uni-tuebingen.de/Services/SherLoc2/
+
+Requirements:
+==========
+SherLoc2 needs a Unix environment and uses several external tools.
+Before SherLoc2 can be run, the Libsvm and Blast packages must be installed and available
+in your local $PATH variable. Furthermore, it is recommended but not required that the InterPro package
+is also installed.
+
+Libsvm is available at
+http://www.csie.ntu.edu.tw/~cjlin/libsvm
+
+Blast is available at
+http://www.ncbi.nlm.nih.gov/BLAST/download.shtml
+
+InterPro is available at
+http://www.ebi.ac.uk/interpro
+
+Installation:
+=========
+
+To install SherLoc2 just execute
+python configureML2.py
+
+The script sets all paths and checks if the required packages are installed.
+The SherLoc2 package contains three subdirectories:
+
+src : all python scripts that build up the prediction system
+data : the required data in the form of trained Libsvm models and NCBI genome data
+tmp : for temporary files created and removed during program execution
+
+Usage:
+=====
+
+Run SherLoc2 without parameters to see how it can be used by the command
+python src/sherloc2_prediction.py
+
+The following list of required and optional parameters can be used to configure SherLoc2:
+
+-fasta=<fasta file>
+	required: SherLoc2 accepts as input protein sequence data in fasta format.
+	
+-origin=<animal|plant|fungal>
+	required: Depending on the specified origin, different sets of eukaryotic subcellular localizations
+	can be predicted.
+
+-result=<result file>
+	required: The prediction results are stored in a file given by this parameter.
+
+[-output=<simple|advanced>]
+	optional: This parameter defines how much result information is presented. The simple output consists
+	of the final probability scores for each predictable localization and is used as default output.
+	The advanced output contains also detailed results for each subpredictor.
+
+[[-go=<go file>] ... ]
+	optional: The GOLoc subpredictor requires Gene Ontology (GO) terms as input.
+	Several files containing GO data can be passed via this parameter. 
+	The lines in the files must be in the following format:
+	<protein fasta id><at least one space or tab><GO data>
+	where <GO data> is an annotating text which is scanned for GO terms in the format GO:[0-9][0-9][0-9][0-9][0-9]
+	
+	The protein ids in the GO data files must also be present in the input sequence fasta file. 
+	GO data for each protein can be distributed over several lines or several files. 
+	If no file containing GO data is passed, SherLoc2 skips the GOLoc subpredictor and replaces its output
+	by default values. It is recommended to use the program iprscan from the InterPro package to create GO data.
+
+SherLoc2 and InterPro:
+=======================
+
+SherLoc2 and the program iprscan from the InterPro package can be combined using the script 
+run_sherloc2_with_iprscan. The script runs at first ipscan using a passed fasta file as input
+and creates the file interpro.out which in turn is passed via the -go param to sherloc2_prediction.py.
+
+To run the script type
+./run_sherloc2_with_iprscan <fasta file> <origin> <result file>
+
+You are free to change the script according to your wishes.
+
+Examples:
+=======
+
+The following command runs the animal version of SherLoc2 using test.fasta and test.go as input
+and stores the prediction results in test.res:
+python src/sherloc2_prediction.py -fasta=test.fasta -origin=animal -result=test.res -go=test.go
+
+The next command runs iprscan at first using test.fasta as input. After this, the animal version of SherLoc2
+is executed using again test.fasta as input and test.res as result file. This time, the GO output of iprscan
+is automatically passed to SherLoc2 via the -go parameter:
+./run_sherloc2_with_iprscan test.fasta animal test.res
