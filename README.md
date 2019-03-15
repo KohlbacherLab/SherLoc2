@@ -1,9 +1,9 @@
 ## SherLoc2
 ### Bioinformatics tool for predicting protein subcellular localizations
 
-This repository mainly provides a containerized installation of SherLoc2 as a webservice.
-Just build the image and start the container using the script [start_container.sh](start_container.sh).
-Have a look into that script to learn how everything works and to make some changes.
+This repository mainly provides a containerized installation of SherLoc2 as a webservice.  
+Just build the image and start the container using the script [start_container.sh](start_container.sh).  
+Have a look into that script to learn how everything works and to make some changes.  
 
 
 **Citing & Further Information**  
