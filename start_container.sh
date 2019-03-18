@@ -1,14 +1,45 @@
 #!/bin/bash
 
 #----------------------------------
+# Important Settings
+#----------------------------------
+
+if [ -z "$ABI_SERVICES_CONTACT_MAIL" ]
+then
+  contact_email="abi-services@informatik.uni-tuebingen.de"
+else
+  contact_email="$ABI_SERVICES_CONTACT_MAIL"
+fi
+
+if [ -z "$ABI_SERVICES_IMPRINT_URL" ]
+then
+  imprint_url="https://www-abi.informatik.uni-tuebingen.de/imprint"
+else
+  imprint_url="$ABI_SERVICES_IMPRINT_URL"
+fi
+
+if [ -z "$ABI_SERVICES_GDPR_URL" ]
+then
+  gdpr_url="https://www-abi.informatik.uni-tuebingen.de/gdpr"
+else
+  gdpr_url="$ABI_SERVICES_GDPR_URL"
+fi
+
+if [ -z "$ABI_SERVICES_SHERLOC2_PORT" ]
+then
+  sherloc2_port="28030"
+else
+  sherloc2_port="$ABI_SERVICES_SHERLOC2_PORT"
+fi
+
+
+#----------------------------------
 # Start SherLoc2 Daemon Containers
 #----------------------------------
 
-contact_email="abi-services@informatik.uni-tuebingen.de"
-imprint_url="https://www-abi.informatik.uni-tuebingen.de/imprint"
-gdpr_url="https://www-abi.informatik.uni-tuebingen.de/gdpr"
+# Without an InterProScan installation remove the volume mount flag
 
-docker run --rm -it -d -p 28030:80 \
+docker run --rm -it -d -p $sherloc2_port:80 \
            -e SL_CONTACT_EMAIL="$contact_email" \
            -e SL_IMPRINT_URL="$imprint_url" \
            -e SL_GDPR_URL="$gdpr_url" \
