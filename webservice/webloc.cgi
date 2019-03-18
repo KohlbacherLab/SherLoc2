@@ -61,7 +61,7 @@ def __job_status(id):
 
 
 def __max_input_seqs():
-  return int(os.getenv("sl_max_seq"))
+  return int(sl_max_seq)
 
 
 def __createID():
