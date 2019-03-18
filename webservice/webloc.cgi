@@ -312,8 +312,7 @@ def __print_result_screen(id):
 
   print "<h2>SherLoc2 prediction results.</h2><BR>";
 
-  print "<p>Predictor: " + results[2].split("=")[1].strip() + "</p>";
-  print "<p>Origin: "    + results[3].split("=")[1].strip() + "</p><BR>";
+  print "<p>Origin: "    + results[2].split("=")[1].strip() + "</p><BR>";
 
   for i in results[4:]:
     print "<p>" + i.strip() + "</p>"

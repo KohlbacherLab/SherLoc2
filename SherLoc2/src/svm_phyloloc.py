@@ -98,8 +98,48 @@ def createProfile(fastafile, blast_path, genome_path, sessionid=1):
 	for i in range(len(genomeList)):
 		if i>24 and i <400:
 			continue
+
 		blastFile = file(blast_out_path + '/' + genomeList[i] + '.txt' ,'r')
 		blastLines = blastFile.readlines()
+
+		id = blastLines[1].split(" ")[2].strip()
+
+		phylovalue = {}
+		phylovalue[0.1] = 0.0
+		phylovalue[0.01] = 0.0
+		phylovalue[0.001] = 0.0
+		phylovalue[0.0001] = 0.0
+		phylovalue[0.00001] = 0.0
+		phylovalue[0.000001] = 0.0
+		phylovalue[0.0000001] = 0.0
+		phylovalue[0.00000001] = 0.0
+		phylovalue[0.000000001] = 0.0
+		phylovalue[0.0000000001] = 0.0
+
+		# berpruefung, ob es ueberhaupt ein blast-ergebnis gibt
+		bit_score = 0.0
+
+		if len(blastLines) >= 6:
+			hit_line = blastLines[5].split("\t")
+			evalue = hit_line[10]
+			bit_score_raw = hit_line[11]
+
+			if id in protein_self_bit_score_map:
+				bit_score = float(bit_score_raw) / protein_self_bit_score_map[id]
+			if evalue != "0.0":
+				for cutoff in phylovalue.keys():
+					if float(evalue) >= cutoff:
+						phylovalue[cutoff] = 1.0
+					else:
+						phylovalue[cutoff] = -1.0 /(math.log10(float(evalue)))
+		else:
+			evalue = 1
+			for cutoff in phylovalue.keys():
+				phylovalue[cutoff] = 1.0
+
+		proteins2[id][i]=bit_score
+
+		"""
 		for k in range(len(blastLines)):
 			if blastLines[k].find("# Query") != -1:
 				id = blastLines[k][9:]
@@ -120,25 +160,27 @@ def createProfile(fastafile, blast_path, genome_path, sessionid=1):
 
 				# berpruefung, ob es ueberhaupt ein blast-ergebnis gibt
 				bit_score = 0.0
-
-				if len(blastLines) >= 6:
-					hit_line = blastLines[5]
-					evalue = hit_line[10]
-
+				if (k+4 <= len(blastLines)) and (blastLines[k+3].find("BLASTP") == -1):
+					evalLine = blastLines[k+3].split("\t")
+					evalue = evalLine[10]
 					if id in protein_self_bit_score_map:
-						bit_score = float(hit_line[11]) / protein_self_bit_score_map[id]
+						bit_score = float(evalLine[11]) / protein_self_bit_score_map[id]
 					if evalue != "0.0":
 						for cutoff in phylovalue.keys():
 							if float(evalue) >= cutoff:
 								phylovalue[cutoff] = 1.0
 							else:
 								phylovalue[cutoff] = -1.0 /(math.log10(float(evalue)))
+
+				#gibt es kein blast-ergebnis wird der evalue und phylovalue auf 1 gesetzt
 				else:
 					evalue = 1
 					for cutoff in phylovalue.keys():
 						phylovalue[cutoff] = 1.0
 
 				proteins2[id][i]=bit_score
+		"""
+
 		blastFile.close()
 
 
