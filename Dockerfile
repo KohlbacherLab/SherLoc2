@@ -53,7 +53,8 @@ COPY webservice/downloads/   /var/www/html/cgi-bin/downloads/
 COPY webservice/images/      /var/www/html/cgi-bin/images/
 
 RUN mkdir /webservice
-ADD webservice/sl2setup.py  /webservice/sl2setup.py
+ADD webservice/job_cleanup.sh          /webservice/job_cleanup.sh
+ADD webservice/sl2setup.py             /webservice/sl2setup.py
 ADD webservice/sherloc2_entrypoint.sh  /webservice/sherloc2_entrypoint.sh
 
 RUN mkdir /sl2jobs
