@@ -18,6 +18,11 @@ if os.environ.get("SL_GDPR_URL") != None:
 else:
     f.write("gdpr_url = 'https://abi.inf.uni-tuebingen.de/datenschutzerklaerung'\n")
 
+if os.environ.get("SL_MAX_SEQ") != None:
+    f.write("sl_max_seq = '" + os.environ.get("SL_MAX_SEQ") + "'\n")
+else:
+    f.write("sl_max_seq = '20'\n")
+
 if os.path.isfile("/interproscan/interproscan.sh"):
     p = Popen("/interproscan/interproscan.sh -version", shell=True, stdout=PIPE, stderr=PIPE);
     stdout, stderr = p.communicate();

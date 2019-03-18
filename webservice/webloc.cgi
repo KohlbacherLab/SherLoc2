@@ -15,8 +15,6 @@ try:
 
   os.environ['SHERLOC2_JOBS'] = '/sl2jobs';
 
-  os.environ['SHERLOC2_MAX_SEQS'] = '20';
-
   python_path = "/usr/bin/python";
   img_path = "images/";
   download_path = "downloads/";
@@ -63,7 +61,7 @@ def __job_status(id):
 
 
 def __max_input_seqs():
-  return int(os.getenv("SHERLOC2_MAX_SEQS"))
+  return int(os.getenv("sl_max_seq"))
 
 
 def __createID():
@@ -259,12 +257,12 @@ def __print_start_screen(error_msg = ""):
 
 
   print "<table style='border:1px solid #cbdbff;width:100%;'><tr><td>"
-  print "Paste your amino acid sequence(s) in fasta format (maximum 20 sequences):<BR>";
+  print "Paste your amino acid sequence(s) in fasta format (maximum " + sl_max_seq + " sequences):<BR>";
   print "</td></tr></table><BR>";
 
   print "<textarea class=input name='plain_sequence' cols=100 rows=10></textarea><BR>";
   print "<BR>OR<BR><BR>"
-  print "Upload a FASTA file (maximum 20 sequences): <input type='file' name='fastafile' size='60'><BR><BR><BR>"
+  print "Upload a FASTA file (maximum " + sl_max_seq + " sequences): <input type='file' name='fastafile' size='60'><BR><BR><BR>"
 
   print "<input type='hidden' name='page' value='predict'>";
   print "<input class=button type='submit' name='Submit' value='Predict'>";
@@ -354,8 +352,8 @@ def __validate_sequence_input(id, seqs):
 
   error_msg = ""
   for record in SeqIO.parse(seqs_file, "fasta"):
-    if len(records) > __max_input_seqs():
-      error_msg = "ERROR: Please do not submit more than " + str(__max_input_seqs()) + " FASTA sequences."
+    if len(records) > __max_input_seqs() - 1:
+      error_msg = "ERROR: Please do not submit more than " + sl_max_seq + " FASTA sequences."
       break;
     if len(record.id) == 0:
       error_msg = "ERROR: Please give every FASTA record a name."
