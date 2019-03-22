@@ -284,7 +284,7 @@ def __print_start_screen(error_msg = ""):
 Intermediate Screen
 """
 def __print_intermediate_screen(id, seqs_n=0):
-  __print_header(seqs_n*10, id);
+  __print_header(10, id);
   __print_head();
 
   print "<h2>Prediction in progress</h2>";
