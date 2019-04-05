@@ -44,17 +44,24 @@ else
   sherloc2_port="$ABI_SERVICES_SHERLOC2_PORT"
 fi
 
-
 #----------------------------------
 # Start SherLoc2 Daemon Containers
 #----------------------------------
 
-# Without an InterProScan installation remove the volume mount flag
-
-docker run --rm -it -d -p $sherloc2_port:80 \
-           -e SL_CONTACT_EMAIL="$contact_email" \
-           -e SL_IMPRINT_URL="$imprint_url" \
-           -e SL_GDPR_URL="$gdpr_url" \
-           -e SL_MAX_SEQ="$sherloc2_max_seq" \
-           -v /local/abi_webservices/interproscan-5.29-68.0:/interproscan \
-           --name abi_webservice_sherloc2 sherloc2
+if [ -z "$INTERPROSCAN_LOCAL" ]
+then
+  docker run --rm -it -d -p $sherloc2_port:80 \
+             -e SL_CONTACT_EMAIL="$contact_email" \
+             -e SL_IMPRINT_URL="$imprint_url" \
+             -e SL_GDPR_URL="$gdpr_url" \
+             -e SL_MAX_SEQ="$sherloc2_max_seq" \
+             --name abi_webservice_sherloc2 sherloc2
+else
+  docker run --rm -it -d -p $sherloc2_port:80 \
+             -e SL_CONTACT_EMAIL="$contact_email" \
+             -e SL_IMPRINT_URL="$imprint_url" \
+             -e SL_GDPR_URL="$gdpr_url" \
+             -e SL_MAX_SEQ="$sherloc2_max_seq" \
+             -v $INTERPROSCAN_LOCAL:/interproscan \
+             --name abi_webservice_sherloc2 sherloc2
+fi
